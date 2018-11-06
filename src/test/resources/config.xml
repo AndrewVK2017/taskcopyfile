@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <routes>
+        <route>
+            <name>TestRoute1</name>
+            <from>C:\temp\from1</from>
+            <to>C:\temp\to1</to>
+        </route>
+    </routes>
+</config>
